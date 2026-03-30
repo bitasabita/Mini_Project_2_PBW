@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Mini Project 1 — Portofolio Website  
+# 🌸 Mini Project 2 — Portofolio Website  
 
 ### 🎨 Personal Portofolio Web Application  
 💻 HTML • CSS • Bootstrap • Vue JS  
